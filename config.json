@@ -1,19 +1,19 @@
 {
-  "contactOwner": "628817839722",
-  "ownerNumber": ["628817839722@s.whatsapp.net"],
-  "botName": "VelzzyBOT-MDོ",
-  "ownerName": "RonzzOfcོ",
+  "contactOwner": "6283136890848",
+  "ownerNumber": ["6283136890848@s.whatsapp.net"],
+  "botName": "RagilBOT-MDོ",
+  "ownerName": "AgilOfcོ",
   "pathimg": "./temp/logo.jpg",
-  "footer": "VelzzyBOT-MDོ © RonzzOfcོ",
+  "footer": "RagilBOT-MDོ © AgilOfcོ",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
     "gopay": {
-      "nomer": "08817839722",
-      "atas_nama": "Ronzz Ofc"
+      "nomer": "083136890848",
+      "atas_nama": "Ragil Ofc"
     },
     "dana": {
-      "nomer": "628817839722",
-      "atas_nama": "Ronzz YT"
+      "nomer": "6283136890848",
+      "atas_nama": "Agil gans"
     }
   }
 }
